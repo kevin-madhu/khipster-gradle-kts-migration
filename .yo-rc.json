@@ -1,0 +1,53 @@
+{
+  "generator-jhipster": {
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "clientFramework": "angularX",
+    "serverPort": "8080",
+    "serviceDiscoveryType": false,
+    "skipUserManagement": false,
+    "baseName": "jhipster",
+    "buildTool": "gradle",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": true,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "jhiPrefix": "jhi",
+    "languages": ["en", "fr"],
+    "messageBroker": false,
+    "nativeLanguage": "en",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "skipClient": false,
+    "testFrameworks": [],
+    "websocket": false,
+    "jhipsterVersion": "6.9.0",
+    "creationTimestamp": 1591643280835,
+    "skipServer": false,
+    "packageFolder": "com/mycompany/myapp",
+    "packageName": "com.mycompany.myapp",
+    "clientPackageManager": "npm",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "applicationType": "monolith",
+    "jwtSecretKey": "YWY4NDJlM2MzMjJkNDdkYjkwM2JhNTRlZTdiMzhhMjcxYWVjYjZiNzk1MDQxODU4ZWIzZjhjNDk5MTlmZWZlNGRmMjk4OWEzM2RlOTFkMjRlZmNhOTNlNjllZjdkNmUxYTQ0NGQxYmRjMDljOTAzZGZlM2YxMmI1MDRmNWM2YzU=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.6.0"
+      }
+    ],
+    "blueprints": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.6.0"
+      }
+    ]
+  },
+  "entities": []
+}
