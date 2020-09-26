@@ -82,6 +82,7 @@ out/
 ######################
 .gradle/
 /build/
+/buildSrc/build/
 
 ######################
 # Package Files
